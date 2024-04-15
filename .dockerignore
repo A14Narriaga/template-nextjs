@@ -1,0 +1,8 @@
+*
+!/src
+!/tests
+!/public
+!/package.json
+!/yarn.lock
+!/tsconfig.json
+!/next.config.mjs

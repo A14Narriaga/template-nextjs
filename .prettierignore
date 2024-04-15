@@ -1,0 +1,4 @@
+.next/
+dist/
+test/coverage/
+node_modules/
